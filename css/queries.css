@@ -59,6 +59,10 @@
 /**************************/
 
 @media (max-width: 44em) {
+	nav img {
+		height: 4rem;
+	}
+
 	.nav-items {
 		display: none;
 	}
@@ -96,10 +100,6 @@
 /**************************/
 
 @media (max-width: 34em) {
-	body {
-		background-position: center;
-	}
-
 	.imgs-div img:last-child {
 		height: 35rem;
 	}
