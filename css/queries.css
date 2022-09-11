@@ -59,6 +59,10 @@
 /**************************/
 
 @media (max-width: 44em) {
+	.main-div {
+		height: 130vh;
+	}
+
 	nav img {
 		height: 4rem;
 	}

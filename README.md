@@ -2,7 +2,7 @@
 
 ![Created By Sayantan Bera](https://img.shields.io/badge/Created%20By-Sayantan%20Bera-blue)
 
-## **Project-8** [Live Link](https://plant-landing-page-sayantan.netlify.app/)
+## **Project-8** [Live Link](https://web-design-sayantan.netlify.app/)
 
 ### Website Image
 
@@ -16,4 +16,4 @@
 
 - I Learned about flexbox in details.
 
-## This project took around 4.5 hours to complete.
+## This project took around 4.5 hours to complete and 1.5 hours to responsive.
