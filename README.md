@@ -6,7 +6,7 @@
 
 ### Website Image
 
-![website img](./screeenshot/project%208.png)
+![website img](./screeenshot/poster.png)
 
 ---
 
